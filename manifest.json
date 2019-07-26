@@ -1,5 +1,6 @@
 {
   "name": "SoloLife.rocks",
+  "start_url": "/",
   "icons": [
     {
       "src": "/favicons/android-icon-36x36.png",
